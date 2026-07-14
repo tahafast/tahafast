@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C4CF1&height=200&section=header&text=Muhammad%20Taha%20Rahat&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Healthcare%20%2B%20LLM%20Systems&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C4CF1&height=200&section=header&text=Muhammad%20Taha%20Rahat&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Machine%20Learning%20Engineer%20-%20Healthcare%20and%20LLM%20Systems&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -132,6 +132,10 @@ Explore the rest of my [repos](https://github.com/tahafast?tab=repositories) for
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahafast&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=tahafast&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
