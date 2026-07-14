@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm an AI/ML engineer based in Karachi, focused on taking machine learning models out of notebooks and into real, usable systems — mainly in **healthcare AI** and **LLM-powered applications**.
+I'm an AI/ML engineer based in Lahore, focused on taking machine learning models out of notebooks and into real, usable systems — mainly in **healthcare AI** and **LLM-powered applications**.
 
 - 🩺 Currently building AI tools that help clinicians move faster — automated report generation, diagnostic support, and patient-facing assistants.
 - 🧠 Comfortable across the ML stack: classical predictive modeling, deep learning (CV/NLP), and applied LLM engineering (RAG, agents, tool-use).
